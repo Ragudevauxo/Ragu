@@ -20,7 +20,7 @@ public class AllFactors {
         }
         else
         {
-            System.out.println("Invalid value");
+            System.out.println("Invalid ");
         }
 
 }}
